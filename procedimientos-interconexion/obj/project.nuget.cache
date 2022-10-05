@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IK7fSomN3Ho2D61AsZ4EVjFwl4Abi1D+E68A9SQt/FV54v0gbol2ORfPe8Oq/IuGRVd8b1562OgbgmiQ+5a59Q==",
+  "dgSpecHash": "xjwokb6X+xHdvAaSKWaxDCGcJik9N46q0lCerL86bB/6rXEFQC8gPs8hVob7LfKUIBjjmHAGzyEZVsRgRMdV2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Documents\\Documentos-Oscar\\Proyectos\\Proyecto-Interconexion-DGRC\\Proyecto_inter_DGRC\\procedimientos-interconexion_v2\\procedimientos-interconexion\\procedimientos-interconexion.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\Documents\\GitHub\\Proyecto_inter_DGRC\\procedimientos-interconexion\\procedimientos-interconexion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
